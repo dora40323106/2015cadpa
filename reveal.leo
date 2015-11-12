@@ -64,16 +64,16 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8"><vh>body</vh>
+<v t="amd.20150915155634.8" a="E"><vh>body</vh>
 <v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
-<v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
+<v t="amd.20150915155634.10"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
 <v t="amd.20150915172241.1"><vh>h1 - 開放自評規劃</vh></v>
 <v t="amd.20150915155634.12"><vh>h2 - 實體輔助工具</vh></v>
@@ -282,7 +282,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -290,6 +290,7 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
+<v t="leo.20151112140433.1"><vh>週自評</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -1992,9 +1993,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;教學影片&lt;/h1&gt;
+    &lt;iframe src="https://player.vimeo.com/video/145047416" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/145047416"&gt;w2&lt;/a&gt; from &lt;a href="https://vimeo.com/user33836053"&gt;曾心榆&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;回到第一張投影片&lt;a href="#/hw-task-one"&gt;第一張投影片&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2025,17 +2026,17 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
+    &lt;h1&gt;Dora's homework_W2&lt;/h1&gt;
+    &lt;p&gt;40323106曾心榆設計二甲&lt;/p&gt;		
+&lt;/section&gt;</t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;第二週作業&lt;/h1&gt;
+    &lt;p&gt;作業說明&lt;/p&gt;
+    &lt;p&gt;1.將自己github倉儲的資料夾clone下來並建立分支&lt;/p&gt;
+    &lt;p&gt;2.修改leo檔&lt;/p&gt;
+    &lt;p&gt;3.確認無誤後push回github&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3641#more-3641"&gt;上課資料&lt;/a&gt;
 &lt;/section&gt;
-				
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -2198,10 +2199,9 @@ g.es("pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;計算機程式&lt;/h1&gt;
-    &lt;p&gt;第1週教學內容&lt;/p&gt;		
-&lt;/section&gt;
-	</t>
+    &lt;h1&gt;Dora's homework_W2&lt;/h1&gt;
+    &lt;p&gt;40323106曾心榆設計二甲&lt;/p&gt;		
+&lt;/section&gt;</t>
 <t tx="ibm.20150918175403.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;課程規劃&lt;/h1&gt;
     &lt;p&gt;教科書&lt;/p&gt;
@@ -2285,5 +2285,9 @@ Diff...
 &lt;/head&gt;
 @others
 </t>
+<t tx="leo.20151112140433.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;本週自評:80&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>

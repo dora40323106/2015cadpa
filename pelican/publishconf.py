@@ -27,11 +27,10 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('github', 'https://github.com/dora40323106/2015cadpa'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('facebook', 'https://www.facebook.com/dora850710'),)
 
 DEFAULT_PAGINATION = 10
 
