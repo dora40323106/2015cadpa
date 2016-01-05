@@ -39,6 +39,7 @@
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151112160633.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151112163348.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="leo.20160105222221.1"><vh>@edit 2015cphww15.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -286,7 +287,7 @@
 </v>
 <v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
+<v t="amd.20150915211351.1"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
@@ -308,15 +309,16 @@
 <v t="leo.20151112160831.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151112160831.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151112160831.8"><vh>作業任務一</vh></v>
-<v t="leo.20151112160831.9"><vh>週自評</vh></v>
 <v t="leo.20151112160831.10"><vh>第3張投影片</vh></v>
+<v t="leo.20151112160831.9"><vh>心得</vh></v>
+<v t="leo.20151112170106.1"><vh>週自評</vh></v>
 </v>
 </v>
 <v t="leo.20151112160831.11"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151112163442.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="leo.20151112163442.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151112163442.2"><vh>檔案說明</vh></v>
 <v t="leo.20151112163442.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151112163442.4" a="E"><vh>body 標註</vh>
@@ -324,8 +326,9 @@
 <v t="leo.20151112163442.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151112163442.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151112163442.8"><vh>作業任務一</vh></v>
-<v t="leo.20151112163442.9"><vh>週自評</vh></v>
 <v t="leo.20151112163442.10"><vh>第3張投影片</vh></v>
+<v t="leo.20151112163442.9"><vh>心得</vh></v>
+<v t="leo.20151112170311.1"><vh>週自評</vh></v>
 </v>
 </v>
 <v t="leo.20151112163442.11"><vh>script</vh></v>
@@ -524,7 +527,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151109140308.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151109140308.2"><vh>Recovered Nodes</vh>
 <v t="leo.20151109140308.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="leo.20151109140308.4"><vh>old:html 標註</vh></v>
 <v t="leo.20151109140308.5"><vh>new:html 標註</vh></v>
@@ -2392,8 +2395,8 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20151112160831.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;本週自評:80&lt;/p&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+      &lt;p&gt;這個禮拜我學到如何clone github倉儲，並且用leo修改，其中，謝謝莊舜婷耐心的指導，讓一直跟不上進度的我慢慢補齊，真是感激不盡!&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151112163442.1">@language xml
 @tabwidth -4
@@ -2467,6 +2470,14 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20151112163442.9">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+     &lt;p&gt;這個禮拜我學到如何solvespace畫圖，謝謝各位組員的協助之外，非常感謝康民宗同學指導，讓一直卡關的我可以順利畫出練習圖，也讓我了解一回生二回熟的道理。&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151112170106.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;本週自評:80&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151112170311.1">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;本週自評:80&lt;/p&gt;
 &lt;/section&gt;</t>

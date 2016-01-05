@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-10-09T11:41:00+08:00</updated><entry><title>2015 電腦輔助設計與實習 作業四</title><link href="http://example.com/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-09T11:41:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2015-10-09:2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2016-01-03T23:45:00+08:00</updated><entry><title>電腦輔助設計與實習 W15</title><link href="http://example.com/2015cp_hw_w15.html" rel="alternate"></link><updated>2016-01-03T23:45:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2016-01-03:2015cp_hw_w15.html</id><summary type="html">&lt;iframe src="40323106_cp_w15_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;以下為作業十五內容:&lt;/p&gt;
+&lt;p&gt;用雲端繪圖軟體完成以下組合圖
+&lt;img src="https://copy.com/WxekmNU18B9MFunr"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;先畫出零件圖(依照小組分配，示範零件一、二)
+1.零件一(Adjuster_base)
+&lt;img src="https://copy.com/vNRBWLe01BIPRXzQ"&gt;&lt;/img&gt;
+以下是影片示範
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k2pFB36Ao7A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;2.零件二(Adjuster)
+&lt;img src="https://copy.com/aiv9yAJMsi0dO0fb"&gt;&lt;/img&gt;
+影片示範
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oyDG8a9rIbA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;所有零件都畫完之後，組合起來~
+&lt;img src="https://copy.com/CHSrGIIChGlm3lGr"&gt;&lt;/img&gt;
+以下為基本功能說明
+&lt;img src="https://copy.com/8SouyjVEAMP3Ffun"&gt;&lt;/img&gt;
+附上組合教學影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JEPgzA5JaqE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業四</title><link href="http://example.com/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-09T11:41:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2015-10-09:2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
