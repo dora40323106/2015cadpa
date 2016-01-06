@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2016-01-03T23:45:00+08:00</updated><entry><title>電腦輔助設計與實習 W15</title><link href="http://example.com/2015cp_hw_w15.html" rel="alternate"></link><updated>2016-01-03T23:45:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2016-01-03:2015cp_hw_w15.html</id><summary type="html">&lt;iframe src="40323106_cp_w15_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;以下為作業十五內容:&lt;/p&gt;
+&lt;p&gt;以下為作業十五內容:
+繪製分配零件(ADJUSTER_BASE)
+&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;
+影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150780012" width="500" height="297" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+繪製分配零件( ADJUSTER)
+&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
+影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150782311" width="500" height="297" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 W16</title><link href="http://example.com/2015cp_hw_w16.html" rel="alternate"></link><updated>2016-01-03T23:45:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2016-01-03:2015cp_hw_w16.html</id><summary type="html">&lt;iframe src="40323106_cp_w15_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;以下為作業十六內容:&lt;/p&gt;
 &lt;p&gt;用雲端繪圖軟體完成以下組合圖
 &lt;img src="https://copy.com/WxekmNU18B9MFunr"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;先畫出零件圖(依照小組分配，示範零件一、二)
@@ -18,7 +32,58 @@
 以下為基本功能說明
 &lt;img src="https://copy.com/8SouyjVEAMP3Ffun"&gt;&lt;/img&gt;
 附上組合教學影片
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JEPgzA5JaqE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業四</title><link href="http://example.com/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-09T11:41:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2015-10-09:2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JEPgzA5JaqE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 W14</title><link href="http://example.com/2015cp_hw_w14.html" rel="alternate"></link><updated>2016-01-02T23:45:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2016-01-02:2015cp_hw_w14.html</id><summary type="html">&lt;iframe src="40323106_cp_w14_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;以下為作業十四內容:&lt;/p&gt;
+&lt;p&gt;機構組裝&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150563381" width="500" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 W13</title><link href="http://example.com/2015cp_hw_w13.html" rel="alternate"></link><updated>2016-01-01T23:45:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2016-01-01:2015cp_hw_w13.html</id><summary type="html">&lt;iframe src="40323106_cp_w13_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;以下為作業十三內容:
+繪製分配零件(HINGE )
+&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
+影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150780011" width="500" height="272" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+繪製分配零件( PISTON)
+&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
+影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150780013" width="500" height="297" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 W12</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-31T23:45:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2015-12-31:2015cp_hw_w12.html</id><summary type="html">&lt;iframe src="40323106_cp_w12_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;以下為作業十二內容:&lt;/p&gt;
+&lt;p&gt;繪製分配零件(CYLINDER )
+&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt;
+影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150781188" width="500" height="294" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;/p&gt;
+繪製分配零件( HANDLE)
+&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
+影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150770345" width="500" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 W11</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-30T23:45:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2015-12-30:2015cp_hw_w11.html</id><summary type="html">&lt;iframe src="40323106_cp_w11_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;以下為作業十一內容:&lt;/p&gt;
+&lt;p&gt;繪製分配零件(CONNECTION )
+&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
+影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150562173" width="500" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;/p&gt;
+繪製分配零件(BASE)
+&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
+影片
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150562169" width="500" height="284" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業四</title><link href="http://example.com/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-09T11:41:00+08:00</updated><author><name>40323106</name></author><id>tag:example.com,2015-10-09:2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
